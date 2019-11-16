@@ -10,7 +10,8 @@
 - Java
 - Spring
 - Kotlin
-- DesignPattern
+- Design Pattern
+- JPA
 - [Seminar](###Seminar)
 
 
