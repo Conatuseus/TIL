@@ -10,4 +10,5 @@
   - Topic: 페이스북 페이, 리브라와 다른 점은
 - [18-월요일](https://github.com/Conatuseus/TIL/blob/master/Article/2019-11/18.md)
   - Topic: 라인,야후재팬 경영통합 합의, 우아한형제들 서빙로봇 '딜리' 랜탈 프로그램 출시
-
+- [19-화요일](https://github.com/Conatuseus/TIL/blob/master/Article/2019-11/19.md)
+  - Topic: 실리콘벨리에서 주목하는 '원페이지' 협업툴
