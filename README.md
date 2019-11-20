@@ -12,8 +12,8 @@
 - Kotlin
 - Design Pattern
 - JPA
-- [Article](###Article)
-- [Seminar](###Seminar)
+- [Article](#Article)
+- [Seminar](#Seminar)
 
 
 
