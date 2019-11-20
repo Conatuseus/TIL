@@ -11,13 +11,16 @@
 - Spring
 - Kotlin
 - Design Pattern
-- JPA
+- [JPA](#JPA)
 - [Article](#Article)
 - [Seminar](#Seminar)
 
 
 
 ---
+
+### JPA
+- [JPA프로그래밍](https://github.com/Conatuseus/TIL/tree/master/JPA/JPA프로그래밍)
 
 ### Seminar
 - [KSUG 2019 하반기](https://github.com/Conatuseus/TIL/blob/master/seminar/KSUG%202019.md)
