@@ -12,3 +12,5 @@
   - Topic: 라인,야후재팬 경영통합 합의, 우아한형제들 서빙로봇 '딜리' 랜탈 프로그램 출시
 - [19-화요일](https://github.com/Conatuseus/TIL/blob/master/Article/2019-11/19.md)
   - Topic: 실리콘벨리에서 주목하는 '원페이지' 협업툴
+- [20-수요일](https://github.com/Conatuseus/TIL/blob/master/Article/2019-11/20.md)
+  - Topic: 요기요 신입 개발자 채용, 라임, GS칼텍스·GS리테일과 파트너십…전동킥보드 충전 네트워크 구축
