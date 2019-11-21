@@ -9,3 +9,4 @@
 ## List
 
 1. [JPA 소개](https://github.com/Conatuseus/TIL/blob/master/JPA/JPA프로그래밍/JPA소개.md)
+2. [영속성컨텍스트_1](https://github.com/Conatuseus/TIL/blob/master/JPA/JPA프로그래밍/영속성컨텍스트_1.md)
