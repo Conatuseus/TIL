@@ -16,3 +16,5 @@
   - Topic: 요기요 신입 개발자 채용, 라임, GS칼텍스·GS리테일과 파트너십…전동킥보드 충전 네트워크 구축
 - [21-목요일](https://github.com/Conatuseus/TIL/blob/master/Article/2019-11/21.md)
   - Topic: 라인 기술을 경험하라…’라인 디벨로퍼 데이 2019′, “서비스 모든 곳에 AI를”…라인이 AI를 대하는 법
+- [22-금요일](https://github.com/Conatuseus/TIL/blob/masater/Article/2019-11/22.md)
+  - Topic: "무단 녹음·인터넷 접속" 보안 뚫린 안드로이드폰…삼성도, “5G 품질, 3D 실사 지도로 높인다”
