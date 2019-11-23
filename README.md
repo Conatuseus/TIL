@@ -10,6 +10,8 @@
 - Java
 - Spring
 - Kotlin
+- Network
+- Database
 - Design Pattern
 - [JPA](#JPA)
 - [Article](#Article)
