@@ -20,3 +20,5 @@
   - Topic: "무단 녹음·인터넷 접속" 보안 뚫린 안드로이드폰…삼성도, “5G 품질, 3D 실사 지도로 높인다”
 - [23-토요일](https://github.com/Conatuseus/TIL/blob/masater/Article/2019-11/23.md)
   - Topic: 제 주인 찾아간 카카오뱅크, 지금 OTT 플랫폼은 오리지널 콘텐츠 쟁탈전
+- [24-일요일](https://github.com/Conatuseus/TIL/blob/masater/Article/2019-11/24.md)
+  - Topic: LG 로봇, 이번에는 빕스 1호점에 취직
