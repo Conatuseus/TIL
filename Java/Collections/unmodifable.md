@@ -1,5 +1,11 @@
-![image-20191125181908809](/Users/conatuseus/Library/Application Support/typora-user-images/image-20191125181908809.png)
-
+## 종류
+- Collections.unmodifiableList()
+- Collections.unmodifiableCollection()
+- Collections.unmodifiableMap()
+- Collections.unmodifiableSet()
+- Collections.unmodifiableSortedSet()
+- Collections.unmodifiableSortedMap()
+- 등등 ...
 
 
 ## 용도
