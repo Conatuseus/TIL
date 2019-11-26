@@ -24,3 +24,5 @@
   - Topic: LG 로봇, 이번에는 빕스 1호점에 취직
 - [25-월요일](https://github.com/Conatuseus/TIL/blob/master/Article/2019-11/25.md)
   - Topic: NHN 토스트, CSA STAR 획득…클라우드 보안 신뢰성↑,  티머니, 미래 대중교통 결제수단은 ‘안면인식, QR’
+- [26-화요일](https://github.com/Conatuseus/TIL/blob/master/Article/2019-11/26.md)
+  - Topic: 티맥스오에스가 만든 협업 도구 ‘클라우드스페이스’
