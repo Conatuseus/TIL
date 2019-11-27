@@ -26,3 +26,5 @@
   - Topic: NHN 토스트, CSA STAR 획득…클라우드 보안 신뢰성↑,  티머니, 미래 대중교통 결제수단은 ‘안면인식, QR’
 - [26-화요일](https://github.com/Conatuseus/TIL/blob/master/Article/2019-11/26.md)
   - Topic: 티맥스오에스가 만든 협업 도구 ‘클라우드스페이스’
+- [27-화요일](https://github.com/Conatuseus/TIL/blob/master/Article/2019-11/27.md)
+  - Topic: NHN FORWARD, 요기요, 홈플러스 익스프레스도 배달한다
