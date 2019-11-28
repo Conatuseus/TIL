@@ -28,3 +28,5 @@
   - Topic: 티맥스오에스가 만든 협업 도구 ‘클라우드스페이스’
 - [27-화요일](https://github.com/Conatuseus/TIL/blob/master/Article/2019-11/27.md)
   - Topic: NHN FORWARD, 요기요, 홈플러스 익스프레스도 배달한다
+- [28-수요일](https://github.com/Conatuseus/TIL/blob/master/Article/2019-11/28.md)
+  - Topic: 네트워크부터 DB·앱까지….구글 신규 클라우드 솔루션 5종 출시
