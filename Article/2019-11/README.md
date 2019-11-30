@@ -32,3 +32,5 @@
   - Topic: 네트워크부터 DB·앱까지….구글 신규 클라우드 솔루션 5종 출시
 - [29-금요일](https://github.com/Conatuseus/TIL/blob/master/Article/2019-11/29.md)
   - Topic: 'co', 'go' 빠진 숫자 도메인 시대 온다,  네이버 바이브, AI로 다음곡 자동추천한다
+- [30-토요일](https://github.com/Conatuseus/TIL/blob/master/Article/2019-11/30.md)
+  - Topic: 버스용 기가급 와이파이 나올까…첫 시연 성공, “사진 속 그 옷, 쇼핑몰서 찾아드려요”
