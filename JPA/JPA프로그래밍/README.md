@@ -15,3 +15,5 @@
 5. [엔티티매핑_2](https://github.com/Conatuseus/TIL/blob/master/JPA/JPA프로그래밍/엔티티매핑_2.md)
 6. [연관관계 매핑 기초 1](https://github.com/Conatuseus/TIL/blob/master/JPA/JPA프로그래밍/연관관계_매핑_기초_1.md)
 7. [연관관계 매핑 기초 2](https://github.com/Conatuseus/TIL/blob/master/JPA/JPA프로그래밍/연관관계_매핑_기초_2.md)
+
+   [임베디드 타입](https://github.com/Conatuseus/TIL/blob/master/JPA/JPA프로그래밍/임베디드_타입.md)
