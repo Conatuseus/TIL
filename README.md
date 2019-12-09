@@ -27,7 +27,7 @@
 - [intellij에서 entity 기반 ERD 그리기](https://gmlwjd9405.github.io/2019/10/28/intellij-jpa-erd.html)
 - [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지 - 이동욱님](https://www.youtube.com/watch?v=V9AGvwPmnZU)
 
----
+
 ### Java
 - [Collections](https://github.com/Conatuseus/TIL/tree/master/Java/Collections)
 
