@@ -41,6 +41,7 @@
   - [연관관계 매핑 기초 1](https://github.com/Conatuseus/TIL/blob/master/JPA/JPA프로그래밍/연관관계_매핑_기초_1.md)
   - [연관관계 매핑 기초 2](https://github.com/Conatuseus/TIL/blob/master/JPA/JPA프로그래밍/연관관계_매핑_기초_2.md)
   - [임베디드 타입](https://github.com/Conatuseus/TIL/blob/master/JPA/JPA프로그래밍/임베디드_타입.md)
+- [JPA Auditing 적용하기](https://github.com/Conatuseus/TIL/blob/master/JPA/JPA_Auditing.md)
 
 ### Seminar
 - [KSUG 2019 하반기](https://github.com/Conatuseus/TIL/blob/master/seminar/KSUG%202019.md)
