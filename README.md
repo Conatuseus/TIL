@@ -9,7 +9,7 @@
 ## Categories
 - [Java](#Java)
 - [Spring](#Spring)
-- [Design Pattern](#Design Pattern)
+- [DesignPattern](#DesignPattern)
 - [Kotlin](#Kotlin)
 - [Network](#Network)
 - [Database](#Database)
