@@ -31,6 +31,9 @@
 ### Java
 - [Collections](https://github.com/Conatuseus/TIL/tree/master/Java/Collections)
 
+### Spring
+- [왜 생성자 주입을 사용해야 하는가](https://github.com/Conatuseus/TIL/blob/master/Spring/왜_생성자_주입을_사용해야하는가.md)
+
 ### JPA
 - [JPA프로그래밍](https://github.com/Conatuseus/TIL/tree/master/JPA/JPA프로그래밍)
   - [JPA 소개](https://github.com/Conatuseus/TIL/blob/master/JPA/JPA프로그래밍/JPA소개.md)
