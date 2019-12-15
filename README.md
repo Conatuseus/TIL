@@ -16,6 +16,7 @@
 - [JPA](#JPA)
 - [HTTP완벽가이드](#HTTP완벽가이드)
 - [Docker](#Docker)
+- [Git](#Git)
 - [Link](#Link)
 - [Seminar](#Seminar)
 - [Article](#Article)
@@ -46,6 +47,9 @@
 
 ### Docker
 - [Docker_사용해보기](https://github.com/Conatuseus/TIL/blob/master/Docker/Docker_%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0.md)
+
+### Git
+- [.ignore 설정하기](https://github.com/Conatuseus/TIL/blob/master/Git/gitignore.md)
 
 ### Link
 - [프레임 워크 공부를 멈춰라](https://medium.com/@jongyoungpark/프레임워크-공부를-멈춰라-1afa37644474)
