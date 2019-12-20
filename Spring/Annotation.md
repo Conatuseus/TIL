@@ -14,7 +14,7 @@
 
 `Data` 어노테이션이 어떤 것들을 해 주는지 확인하기 위해 먼저 Document를 찾아봤다.
 
-![image-20191221002908754](/Users/conatuseus/Library/Application Support/typora-user-images/image-20191221002908754.png)
+![image](https://user-images.githubusercontent.com/22893111/71266190-3ed82380-238b-11ea-905e-88ea3bb0e804.png)
 
  해석하자면, `@ToString`, `@EqualsAndHashCode`, `@Getter`, `@Setter,` `@RequiredArgsConstructor` 이 5개의 어노테이션  역할을 모두 해준다.
 
