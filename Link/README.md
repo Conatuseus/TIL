@@ -7,3 +7,5 @@
 - [intellij에서 entity 기반 ERD 그리기](https://gmlwjd9405.github.io/2019/10/28/intellij-jpa-erd.html)
 - [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지 - 이동욱님](https://www.youtube.com/watch?v=V9AGvwPmnZU)
 - [체대 출신 개발자의 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/)
+- [도커 Docker 기초 확실히 다지기](https://futurecreator.github.io/2018/11/16/docker-container-basics/?fbclid=IwAR2qU0Hcyvys7IFLjxkKx3foitQYtRZJ7Aa2HnWl1SshOYCMQZn4xC2wyjQ)
+
