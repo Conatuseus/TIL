@@ -43,6 +43,7 @@
 
 ### HTTP완벽가이드
 - [1장. HTTP 개관](https://github.com/Conatuseus/TIL/blob/master/HTTP%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C/1%EC%9E%A5.HTTP%EA%B0%9C%EA%B4%80.md)
+- [2장. URL과 리소스](https://github.com/Conatuseus/TIL/blob/master/HTTP%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C/2%EC%9E%A5.URL%EA%B3%BC%20%EB%A6%AC%EC%86%8C%EC%8A%A4.md)
 
 
 ### Docker
