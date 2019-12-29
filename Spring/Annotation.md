@@ -1,6 +1,12 @@
+
+
 # Spring
 
+- `@EnableWebSecurity` 
 
+  Spring Security 설정들을 활성화시켜 줍니다.
+
+## JPA
 
 
 

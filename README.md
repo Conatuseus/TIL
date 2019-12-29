@@ -1,12 +1,8 @@
-# TIL - Today I Learned.
+# 📝 TIL - Today I Learned.
 
+ 하루동안 개발 관련하여 학습하거나 경험한 내용을 기록한다.
 
-
-# 하루하루 공부한 것 정리하는 공간
-
- 
-
-## Categories
+## 📖 Categories
 - [Java](#Java)
 - [Spring](#Spring)
 - [DesignPattern](#DesignPattern)
