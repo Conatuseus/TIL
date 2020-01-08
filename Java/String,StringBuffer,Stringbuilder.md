@@ -91,8 +91,24 @@ System.out.println(sb2); // abc123ZZ
 
 
 
-## 2.3 StringBuilder란?
+### 2.3 StringBuilder란?
 
 StringBuffer는 멀티쓰레드에 안전(thread safe)하도록 동기화되어있다. 따라서 **멀티쓰레드로 작성된 프로그램이 아닌 경우, StringBuffer의 동기화는 불필요하게 성능만 떨어뜨리게 된다.**
 
 그래서 **StringBuffer에서 쓰레드의 동기화만 뺀 StringBuilder가 추가된 것이다.** StringBuilder는 StringBuffer와 완전히 똑같은 기능으로 작성되어 있어서, 소스코드에서 StringBuffer 대신 StringBuilder를 사용하도록 바꾸기만 하면 된다.
+
+
+
+
+
+## 3. 결론
+
+- String class
+
+  문자열 연산이 적을 때 사용하면 좋다. 불변하기 때문에 멀티쓰레드환경에서 동기화를 신경쓸 필요가 없음.
+
+- StringBuffer vs StringBuilder
+
+  공통: 둘 다 문자열 연산이 많을 때 사용하면 좋다.
+
+  차이점: StringBuffer는 thread safe하도록 동기화되어 있어서 멀티쓰레드 환경에서 사용, StringBuilder는 StringBuffer에서 쓰레드의 동기화만 뺀 것이므로 멀티쓰레드 환경이 아닐 때 사용
