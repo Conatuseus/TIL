@@ -123,4 +123,4 @@ Jackson 라이브러리는 `spring-boot-starter-web`에 포함되어 있습니�
 ![image.png](https://images.velog.io/post-images/conatuseus/13319df0-3dc2-11ea-8cb9-370758fc36b2/image.png)
 
 
-> `@RequestBody`에 대한 궁금증은 Jackson 라이브러리의 ObjectMapper가 어떻게 바인딩하는지 알아봐야한다는 결론이 나왔다. 따라서 이번 글에서는 여기까지만 적고, 다음 글에서는 ObjectMapper를 알아가보자
+> `@RequestBody`에 대한 궁금증은 Jackson 라이브러리의 ObjectMapper가 어떻게 바인딩하는지 알아봐야한다는 결론이 나왔습니다. 따라서 이번 글에서는 여기까지만 적고, 다음 글에서는 ObjectMapper를 알아가보겠습니다.
