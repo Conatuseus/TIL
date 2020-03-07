@@ -10,4 +10,4 @@
 - [도커 Docker 기초 확실히 다지기](https://futurecreator.github.io/2018/11/16/docker-container-basics/?fbclid=IwAR2qU0Hcyvys7IFLjxkKx3foitQYtRZJ7Aa2HnWl1SshOYCMQZn4xC2wyjQ)
 - [10만명 접속을 허용하는 시스템 만들기](https://brunch.co.kr/@jowlee/102)
 - [로드 밸런서](https://nesoy.github.io/articles/2018-06/Load-Balancer)
-
+- [Garbage Collection - 이상민님(naver d2글)](https://d2.naver.com/helloworld/1329)
