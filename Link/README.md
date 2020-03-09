@@ -11,3 +11,8 @@
 - [10만명 접속을 허용하는 시스템 만들기](https://brunch.co.kr/@jowlee/102)
 - [로드 밸런서](https://nesoy.github.io/articles/2018-06/Load-Balancer)
 - [Garbage Collection - 이상민님(naver d2글)](https://d2.naver.com/helloworld/1329)
+- [Java Optional 바르게 쓰기](http://homoefficio.github.io/2019/10/03/Java-Optional-바르게-쓰기/?fbclid=IwAR0b2FZ6DQKfIJT_eyCyKIke2V-lrwgU9N0PibWdXgH7q71dqlyViVgrhTU)
+- [개발자를 위한 레디스 튜토리얼 01 - NHN](https://meetup.toast.com/posts/224?fbclid=IwAR23Q9Y4XWAJLxikebwvAfsLDY9VQsvQgYGtekvKsaW9plGUvWkqaL0dvEo)
+- [개발자를 위한 레디스 튜토리얼 02 - NHN](https://meetup.toast.com/posts/225?fbclid=IwAR25Xj87Z_HGyWtCddv-rqK-fDCUEUmYdKb1sGgg0W2ilTbpQLjjQuv9cRQ)
+- 
+
