@@ -14,5 +14,7 @@
 - [Java Optional 바르게 쓰기](http://homoefficio.github.io/2019/10/03/Java-Optional-바르게-쓰기/?fbclid=IwAR0b2FZ6DQKfIJT_eyCyKIke2V-lrwgU9N0PibWdXgH7q71dqlyViVgrhTU)
 - [개발자를 위한 레디스 튜토리얼 01 - NHN](https://meetup.toast.com/posts/224?fbclid=IwAR23Q9Y4XWAJLxikebwvAfsLDY9VQsvQgYGtekvKsaW9plGUvWkqaL0dvEo)
 - [개발자를 위한 레디스 튜토리얼 02 - NHN](https://meetup.toast.com/posts/225?fbclid=IwAR25Xj87Z_HGyWtCddv-rqK-fDCUEUmYdKb1sGgg0W2ilTbpQLjjQuv9cRQ)
-- 
-
+- [AOP 1편-이동욱님](https://jojoldu.tistory.com/69)
+- [AOP 2편-이동욱님](https://jojoldu.tistory.com/70)
+- [AOP 3편-이동욱님](https://jojoldu.tistory.com/71?category=635883)
+- [AOP 4편-이동욱님](https://jojoldu.tistory.com/72)
