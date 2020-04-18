@@ -18,3 +18,4 @@
 - [AOP 2편-이동욱님](https://jojoldu.tistory.com/70)
 - [AOP 3편-이동욱님](https://jojoldu.tistory.com/71?category=635883)
 - [AOP 4편-이동욱님](https://jojoldu.tistory.com/72)
+- [Java Static](https://mangkyu.tistory.com/47)
