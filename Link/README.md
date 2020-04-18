@@ -19,3 +19,4 @@
 - [AOP 3편-이동욱님](https://jojoldu.tistory.com/71?category=635883)
 - [AOP 4편-이동욱님](https://jojoldu.tistory.com/72)
 - [Java Static](https://mangkyu.tistory.com/47)
+- [JVM 구조와 자바 런타임 메모리 구조](https://jeong-pro.tistory.com/148)
