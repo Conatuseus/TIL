@@ -20,3 +20,5 @@
 - [AOP 4편-이동욱님](https://jojoldu.tistory.com/72)
 - [Java Static](https://mangkyu.tistory.com/47)
 - [JVM 구조와 자바 런타임 메모리 구조](https://jeong-pro.tistory.com/148)
+- [우아한테크세미나 - 우아한CRUD(영상)](https://www.youtube.com/watch?v=BlEzbGTQ9Zs&feature=youtu.be)
+
