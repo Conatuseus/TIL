@@ -21,4 +21,4 @@
 - [Java Static](https://mangkyu.tistory.com/47)
 - [JVM 구조와 자바 런타임 메모리 구조](https://jeong-pro.tistory.com/148)
 - [우아한테크세미나 - 우아한CRUD(영상)](https://www.youtube.com/watch?v=BlEzbGTQ9Zs&feature=youtu.be)
-
+- [네이버 애플리케이션의 전자서명 원리](https://d2.naver.com/helloworld/744920)
